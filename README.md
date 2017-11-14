@@ -1,0 +1,2 @@
+# FuzzyRanks
+Simple Fuzzy Library
